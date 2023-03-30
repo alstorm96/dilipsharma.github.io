@@ -1,5 +1,5 @@
 # Dilip Sharma
-SDE | NITJ'19| ex-ISRO | EXUBERANT LEARNER
+SDE | NITJ'19 | ex-ISRO | EXUBERANT LEARNER
 
 Hi! My name is Dilip Sharma and I am a Software Development Engineer at Turvo. I graduated from NIT Jalandhar with a passion for building, breaking and fixing code. Since writing my very first program, I have been deeply invested in the never-ending conundrum of software engineering. I am determined to use programming to enhance people's lives on a global scale. In addition to speaking on niche and intriguing topics, I also enjoy playing basketball and jamming out on my guitar.
 
