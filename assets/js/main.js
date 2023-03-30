@@ -1,9 +1,7 @@
 /*
-Name: Janit Bidhan
-G Number: G01326011
-Email: jbidhan@gmu.edu
+Name: Dilip Sharma
+Email: dilip.sharma96@gmail.com
 This page is for my portfolio and has js for animation and links.
-Deployed on S3.
 */
 (function () {
     "use strict";
