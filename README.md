@@ -1,7 +1,7 @@
 # Dilip Sharma
-MS CS GMU | PSM-I | SDE | ML | POLYGLOT PROGRAMMER | EXUBERANT LEARNER
+SDE | NITJ'19| ex-ISRO | EXUBERANT LEARNER
 
-I am currently pursuing a master's in computer science with a specialization in Machine Learning at George Mason University. I will be graduating in May 2023 and am actively seeking opportunities in software development or machine learning.
+Hi! My name is Dilip Sharma and I am a Software Development Engineer at Turvo. I graduated from NIT Jalandhar with a passion for building, breaking and fixing code. Since writing my very first program, I have been deeply invested in the never-ending conundrum of software engineering. I am determined to use programming to enhance people's lives on a global scale. In addition to speaking on niche and intriguing topics, I also enjoy playing basketball and jamming out on my guitar.
 
 My motto is "Trying to improve the society we live in. Believe in technology to derive change. Ideas work when we do." I am passionate about using technology to solve practical problems and believe in its potential to make a positive impact on people's lives worldwide.
 
@@ -15,8 +15,8 @@ Here are a few things I've learned about myself through my personal and professi
  presentations to communicate my ideas and insights.
  ◦ While my intuition is strong, I base my judgments on evidence and numbers.
 
-I continually educate, refine, and drive myself to be a better person, and I am always learning and adapting to new challenges. I maintain my composure in the face of adversity and focus on making high-quality decisions. I take pleasure in expanding my network and gaining insights from diverse perspectives. Whether it's to discuss emerging technologies, software development, machine learning, or even basketball, I welcome the opportunity to connect and engage in meaningful discussions. Please do not hesitate to reach out to me.
+I continually educate, refine, and drive myself to be a better person, and I am always learning and adapting to new challenges. I maintain my composure in the face of adversity and focus on making high-quality decisions. I take pleasure in expanding my network and gaining insights from diverse perspectives. Whether it's to discuss emerging technologies, software development or even basketball and music. I welcome the opportunity to connect and engage in meaningful discussions. Please do not hesitate to reach out to me.
 
 Skills/Interests: Java, Python, C++, CSS, HTML, Git, SQL, Docker, Spring Boot, AWS, MongoDB, Kafka, RabbitMQ etc 
 
-Areas of Interest: Software Development | Application Development | Product Development | SaaS | Cloud | Agile Development | Web Development | DevOps |
+Areas of Interest: Software Development | Application Development | Product Development | SaaS | Cloud | Agile Development | Web Development | DevOps | Architecutral Deisigning 
